@@ -6,5 +6,10 @@ This repository provides a standardized and reproducible implementation of popul
 
 We provide ready-to-use data loaders that handle task partitioning, data streaming, and format transformation (e.g., channel adjustments) out of the box.
 
+# Included Datasets
+Currently, this repository supports the processing of the following datasets in a continual learning setting:
+
+CIFAR-10 & CIFAR-100
+SVHN (Street View House Numbers)
 
 torch 1.0+
