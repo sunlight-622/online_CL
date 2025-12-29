@@ -9,7 +9,10 @@ We provide ready-to-use data loaders that handle task partitioning, data streami
 # Included Datasets
 Currently, this repository supports the processing of the following datasets in a continual learning setting:
 
-CIFAR-10 & CIFAR-100
-SVHN (Street View House Numbers)
+1.CIFAR-10 & CIFAR-100
+2.SVHN (Street View House Numbers)
+3.CUB200
+4.MiniImage
+5.TinyImage
 
 torch 1.0+
